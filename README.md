@@ -22,18 +22,18 @@ Para a resolução deste desafio, esperamos que você desenvolva uma interface q
 
 ### Obrigatórios
 
-- Disponibilizar documentação para a execução e apresentação do projeto no README;
+- Criar documentação assertiva para a execução e apresentação do projeto no README;
 - Utilizar typescript;
 - Criar nome para aplicação;
-- Tratamento de erros;
-- Tratamento de rotas não existentes;
-- Aplicação deve ser responsiva;
+- Tratamento de erros da API;
+- Tratamento para rotas que não existentes;
 - Fácil de buildar e executar a aplicação para testes
 
 ### Opcionais
 
 - Escrever testes;
 - Documentar decisões tomadas durante o desafio técnico.
+- Aplicação deve ser responsiva;
 
 ### Diferenciais
 
@@ -50,6 +50,8 @@ O objetivo principal deste desafio é avaliar as capacidades do candidato em:
 - Escrever código limpo;
 - Estruturar, armazenar e apresentar dados de forma performática;
 - Apresentar criatividade na criação do layout.
+- Raciocinio na forma de implementar
+- Dedicação e nível de capricho
 
 ### Observações
 - Criar um repositório para enviar o teste
