@@ -1,1 +1,55 @@
-# test-frontend
+# Desafio para frontend
+
+Desafio para Frontend em VueJS!! :raised_hands:
+
+Para a resolução deste desafio, esperamos que você desenvolva uma interface que contemple as estórias de usuário abaixo. O endpoint a ser utilizado será o [TheCocktailDB](https://www.thecocktaildb.com/api.php).
+
+- Dado que sou um usuário eu quero visualizar as categorias de bebidas
+
+  - Guardar os dados para evitar novas requisicoes para o endpoint
+  - Dado que escolhi uma categoria eu posso visualizar a lista das bebidas dessa categoria.
+
+- Dado que sou um usuário eu quero ver os detalhes da bebida.
+
+  - A aplicação deve apresentar as imagens da bebida escolhida;
+  - A aplicação deve apresentar ingredientes e suas medidas da bebida escolhida.
+
+- Dado que sou um usuário eu quero pesquisar uma bebida específica através de um campo de busca.
+
+- Dado que sou um usuário eu posso favoritar uma bebida para facilmente acessá-la no futuro.(opcional)
+
+## Requisitos técnicos
+
+### Obrigatórios
+
+- Disponibilizar documentação para a execução e apresentação do projeto no README;
+- Utilizar typescript;
+- Criar nome para aplicação;
+- Tratamento de erros;
+- Tratamento de rotas não existentes;
+- Aplicação deve ser responsiva;
+- Fácil de buildar e executar a aplicação para testes
+
+### Opcionais
+
+- Escrever testes;
+- Documentar decisões tomadas durante o desafio técnico.
+
+### Diferenciais
+
+- Paleta de cores única;
+- UX agradável;
+- Criar commits semânticos.
+
+### Observação
+
+Utilizar NuxtJS
+
+O objetivo principal deste desafio é avaliar as capacidades do candidato em:
+
+- Escrever código limpo;
+- Estruturar, armazenar e apresentar dados de forma performática;
+- Apresentar criatividade na criação do layout.
+
+### Observações
+- Criar um repositório para enviar o teste
