@@ -16,7 +16,7 @@ Para a resolução deste desafio, esperamos que você desenvolva uma interface c
 
 - Dado que sou um usuário eu quero pesquisar uma bebida específica através de um campo de busca.
 
-- Dado que sou um usuário eu posso favoritar uma bebida para facilmente acessá-la no futuro.(opcional)
+- Dado que sou um usuário eu posso favoritar uma bebida para facilmente acessá-la no futuro.**(opcional)**
 
 ## Requisitos técnicos
 
@@ -48,8 +48,7 @@ Utilizar NuxtJS
 O objetivo principal deste desafio é avaliar as capacidades do candidato em:
 
 - Escrever código limpo;
-- Estruturar, armazenar e apresentar dados de forma performática;
-- Apresentar criatividade na criação do layout.
+- Criatividade na criação do layout.
 - Raciocinio na forma de implementar
 - Dedicação e nível de capricho
 
