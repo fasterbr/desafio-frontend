@@ -7,7 +7,7 @@ Para a resolução deste desafio, esperamos que você desenvolva uma interface c
 - Dado que sou um usuário eu quero visualizar as categorias de bebidas
 
   - Guardar os dados para evitar novas requisicoes para o endpoint
-  - Dado que escolhi uma categoria eu posso visualizar a lista das bebidas dessa categoria.
+  - Ao escolher uma categoria eu devo visualizar a lista das bebidas dessa categoria.
 
 - Dado que sou um usuário eu quero ver os detalhes da bebida.
 
