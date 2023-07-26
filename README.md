@@ -22,18 +22,18 @@ Para a resolução deste desafio, esperamos que você desenvolva uma interface c
 - Criar documentação assertiva para a execução e apresentação do projeto no README;
 - Utilizar typescript;
 - Criar nome para aplicação;
-- Tratamento de erros da API;
-- Tratamento para rotas que não existentes;
+- Tratamento básicos de erros da API;( 500, 400 )
 - Fácil de buildar e executar a aplicação para testes
 
 ### Opcionais
 
+- Tratamento para rotas que não existem;
 - Escrever testes;
-- Documentar decisões tomadas durante o desafio técnico.
 - Aplicação deve ser responsiva;
 
 ### Diferenciais
 
+- Documentar decisões tomadas durante o desafio técnico.
 - Paleta de cores única;
 - UX agradável;
 - Criar commits semânticos.
