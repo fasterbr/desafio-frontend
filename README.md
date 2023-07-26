@@ -2,7 +2,7 @@
 
 Desafio para Frontend em VueJS!! :raised_hands:
 
-Para a resolução deste desafio, esperamos que você desenvolva uma interface que contemple as estórias de usuário abaixo. O endpoint a ser utilizado será o [TheCocktailDB](https://www.thecocktaildb.com/api.php).
+Para a resolução deste desafio, esperamos que você desenvolva uma interface contemplando os requisitos abaixo. O endpoint a ser utilizado será o [TheCocktailDB](https://www.thecocktaildb.com/api.php).
 
 - Dado que sou um usuário eu quero visualizar as categorias de bebidas
 
